@@ -15,6 +15,6 @@ You can try out the application [here](file:///home/programming-lab/Desktop/quiz
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/quiz-app.git`
+1. Clone the repository: `https://github.com/hamsikaananthula/project1.git`
 2. Open `index.html` in your web browser.
 
